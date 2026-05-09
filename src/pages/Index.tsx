@@ -59,7 +59,7 @@ export default function Index() {
         >
           Ваше главное
           <br />
-          <em className="italic text-[#c8a96e]">предложение</em>
+          <em className="italic text-[#c8a96e]">offer</em>
           <br />
           здесь
         </h1>
